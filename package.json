@@ -1,0 +1,21 @@
+{
+  "name": "sleepify",
+  "version": "1.0.0",
+  "description": "Kills Spotify after a designated amount of time.",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js"
+  },
+  "keywords": [
+    "spotify",
+    "sleep",
+    "timer"
+  ],
+  "author": "Gideon Lingle",
+  "license": "MIT",
+  "dependencies": {
+    "fkill": "^7.1.0",
+    "ms": "^2.1.3",
+    "process-exists": "^4.0.0"
+  }
+}
