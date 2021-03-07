@@ -1,5 +1,3 @@
-<div align=center>
-	<img src="./Sleepify.svg">
-	
-	# Sleepify
-</div>
+![Sleepify](./Sleepify.svg)
+# Sleepify
+A wonderfully simple Spotify sleep mode for Windows, Linux, and Mac.
